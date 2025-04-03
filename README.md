@@ -1,4 +1,4 @@
-#Criar queries SQL com as cláusulas abaixo:
+Criar queries SQL com as cláusulas abaixo:
 
 Recuperações simples com SELECT Statement
 Filtros com WHERE Statement
